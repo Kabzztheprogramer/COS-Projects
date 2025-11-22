@@ -1,0 +1,10 @@
+Toothpaste#257.65#46.00
+Chocolate#308.04#15.00
+Notebook#521.33#39.00
+Toothpaste#978.62#47.00
+Lotion#217.67#29.00
+Pen#847.72#31.00
+Milk#118.83#50.00
+Chocolate#864.70#11.00
+Cheese#857.55#38.00
+Toothpaste#224.88#42.00
